@@ -13,6 +13,9 @@ This project is a straightforward web page designed to showcase recipes and prov
 Static Content: Built with pure HTML and CSS.
 Modern UI: Utilizes contemporary design principles for an attractive look and feel.
 
+**How to view**
+Check it out here: https://devadarshini27.github.io/Recipe-and-food-ordering-website/
+
 **Future Enhancements**
 *Integrate JavaScript for dynamic interactions.
 *Implement backend functionality for real-time food ordering.
