@@ -7,14 +7,11 @@ This project is a straightforward web page designed to showcase recipes and prov
 *Clean Layout: An intuitive and visually appealing interface.
 *Recipe Listings: A section dedicated to various delicious recipes.
 *Order Placeholder: A placeholder for future integration of food ordering functionality.
+*Contact Section: A simple form to gather user contact information.
 
 **Features**
 Static Content: Built with pure HTML and CSS.
 Modern UI: Utilizes contemporary design principles for an attractive look and feel.
-
-**Technologies used**
--HTML
--CSS
 
 **Future Enhancements**
 *Integrate JavaScript for dynamic interactions.
